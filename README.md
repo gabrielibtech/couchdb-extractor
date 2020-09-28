@@ -1,1 +1,1 @@
-couchdb-extractor
+Extrator de documentos do couchdb
